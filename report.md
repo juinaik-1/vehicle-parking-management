@@ -3,7 +3,7 @@
 ## **TITLE – Project For Vehicle Parking Management**
 
 ### Problem Statement -
-    Now-a-days, with increase in population and urbanization, the number of private vehicles has been
+Now-a-days, with increase in population and urbanization, the number of private vehicles has been
 increased tremendously, especially in big cities. Due to which, the problem of unmanaged parking
 area arises. Many times, these parking areas are limited and do not offer to accommodate a large
 number of vehicles. The parking areas in crowded and well secured places like societies, buildings,
@@ -44,7 +44,7 @@ log files of the driven data. In our project we provide following utilities-
 6) Check earned money from log file
 
 ### Remarks -
-    Single Inheritance has been used in project where Class VehicleType is base class and Class
+Single Inheritance has been used in project where Class VehicleType is base class and Class
 Vehicle is inherited class. There is another class named EarnedMoney which is accessed by class
 Vehicle using a Friend function.
 
@@ -85,3 +85,9 @@ Here we are working with two .txt files-
 variable and static function, constructor, member function, passing object as a parameter, call by
 reference, THIS pointer, single inheritance, file handling, function within function, use of functions
 and classes included in time header file, etc.
+
+### Class Diagram-
+
+![vehpark](https://user-images.githubusercontent.com/79297009/207911065-a3bcfc58-5e11-4d44-a5f8-ab5a74fb5ce2.png)
+
+
